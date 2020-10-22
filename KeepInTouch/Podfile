@@ -1,0 +1,11 @@
+
+ platform :ios, '13.0'
+
+target 'KeepInTouch' do
+  
+  # Pods for KeepInTouch
+
+pod 'Firebase/Auth'
+pod 'Firebase/Firestore'
+
+end
